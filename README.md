@@ -1,4 +1,11 @@
-# AppApi
+# Phoenix Services Backend
+
+# Phoenix
+[Phoenix Framework](http://phoenixframework.org/) leverages the Erlang VM ability to handle millions of connections alongside Elixir's beautiful syntax and productive tooling for building fault-tolerant systems.
+
+The Phoneix Services Backend manages all communications with our [Electron Frontend](https://github.com/blocplay/frontend).
+
+# Launching
 
 To start your Phoenix server:
 
