@@ -5,6 +5,8 @@
 
 The Phoneix Services Backend manages all communications with our [Electron Frontend](https://github.com/blocplay/frontend). Our Phoenix Services Backend currently communicates & relays with our [eWallet Backend](https://github.com/blocplay/ewallet) as well as our [Blockchain Services Backend](https://github.com/blocplay/blockchain-services).
 
+All source code is released as is under the Apache v2 licensing.
+
 # Setup
 
 To setup the Phoneix Services Backend you will need to configure your services.
